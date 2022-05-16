@@ -2,7 +2,7 @@
   "name": "todo-list-v1",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://Wairimujosephine001.github.io",
+  "homepage":"https://Wairimujosephine001.github.io/todoApp",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
